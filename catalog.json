@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "email": "24f2006619@ds.study.iitm.ac.in",
+    "version": "7d3075a8"
+  },
+  "products": [
+    { "id": "prod-7d3075a8-001", "name": "Premium Item 1", "category": "books", "price": 301.69, "stock": 154, "rating": 1.9 },
+    { "id": "prod-7d3075a8-002", "name": "Pro Item 2", "category": "books", "price": 207.08, "stock": 72, "rating": 2.0 },
+    { "id": "prod-7d3075a8-003", "name": "Standard Item 3", "category": "sports", "price": 294.61, "stock": 27, "rating": 2.8 },
+    { "id": "prod-7d3075a8-004", "name": "Premium Item 4", "category": "clothing", "price": 190.53, "stock": 59, "rating": 3.9 },
+    { "id": "prod-7d3075a8-005", "name": "Pro Item 5", "category": "electronics", "price": 264.98, "stock": 126, "rating": 2.6 },
+    { "id": "prod-7d3075a8-006", "name": "Elite Item 6", "category": "home", "price": 272.83, "stock": 68, "rating": 3.9 },
+    { "id": "prod-7d3075a8-007", "name": "Basic Item 7", "category": "clothing", "price": 74.02, "stock": 53, "rating": 3.2 },
+    { "id": "prod-7d3075a8-008", "name": "Standard Item 8", "category": "electronics", "price": 272.68, "stock": 106, "rating": 3.1 },
+    { "id": "prod-7d3075a8-009", "name": "Premium Item 9", "category": "books", "price": 234.76, "stock": 142, "rating": 3.9 },
+    { "id": "prod-7d3075a8-010", "name": "Standard Item 10", "category": "electronics", "price": 399.50, "stock": 10, "rating": 1.1 },
+    { "id": "prod-7d3075a8-011", "name": "Standard Item 11", "category": "electronics", "price": 54.63, "stock": 62, "rating": 2.2 },
+    { "id": "prod-7d3075a8-012", "name": "Basic Item 12", "category": "clothing", "price": 20.87, "stock": 136, "rating": 2.2 },
+    { "id": "prod-7d3075a8-013", "name": "Premium Item 13", "category": "home", "price": 489.39, "stock": 80, "rating": 4.3 },
+    { "id": "prod-7d3075a8-014", "name": "Premium Item 14", "category": "electronics", "price": 174.59, "stock": 162, "rating": 1.5 },
+    { "id": "prod-7d3075a8-015", "name": "Premium Item 15", "category": "books", "price": 90.89, "stock": 192, "rating": 1.8 },
+    { "id": "prod-7d3075a8-016", "name": "Pro Item 16", "category": "electronics", "price": 140.43, "stock": 26, "rating": 2.9 },
+    { "id": "prod-7d3075a8-017", "name": "Standard Item 17", "category": "sports", "price": 252.82, "stock": 49, "rating": 2.4 }
+  ],
+  "aggregations": {
+    "clothing": {
+      "count": 3,
+      "inventoryValue": 18002.65
+    }
+  }
+}
