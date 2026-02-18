@@ -142,7 +142,6 @@
     }
   ],
   "aggregations": {
-  "categories": {
     "books": {
       "count": 4,
       "inventoryValue": 112156.82
@@ -162,7 +161,6 @@
     "home": {
       "count": 2,
       "inventoryValue": 57703.64
-      }
-    }
-  }
+     }
+   }
 }
